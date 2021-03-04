@@ -1,0 +1,29 @@
+nav {
+    background-color:honeydew;
+    height: 50px;
+
+}
+
+.menu-item {
+    display:inline-block;
+    padding: 10px;
+    text-align: center;
+    width: 100px;
+    vertical-align: center;
+
+}
+
+.sidebar {
+    width: 29%;
+    height: 500px;
+    background-color: pink;
+    float: left;
+
+}
+
+.main-content {
+    width: 70%;
+    float: right;
+    padding: 40px;
+
+}
