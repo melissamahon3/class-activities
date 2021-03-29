@@ -27,4 +27,30 @@
 
 }
 
-#adventure 
+#adventure h2 span {
+    color: #ff9900;
+    font-size: 37px;
+    display: block;
+
+}
+
+.adventure-item {
+    background-image: url(../images/adventure-background-image.png);
+    height: 500px;
+    padding: 100px 20px;
+    background-image: black;
+
+    flex-direction: column;
+    color:white;
+
+}
+
+.adventure-item img {
+    width:45px;
+
+}
+
+.adventure-item .btn-primary {
+    background-color: #ff9900;
+    border-color: #ff9900;
+}
